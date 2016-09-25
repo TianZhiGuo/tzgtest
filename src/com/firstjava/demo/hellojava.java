@@ -5,7 +5,7 @@ package com.firstjava.demo;
  */
 public class hellojava {
     public static void main(String[] args){
-        System.out.print("tianzhiguo first java!");
-
+        System.out.print("tianzhiguo first java123456!");
+        
     }
 }
