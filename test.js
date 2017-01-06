@@ -21,3 +21,5 @@ $.ajax({
 		alert(JSON.parse(data.responseText).msg);
 	}
 })
+
+// test1 dev on jamaster -1.0
